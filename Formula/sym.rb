@@ -5,8 +5,8 @@
 class Sym < Formula
   desc "User-friendly symbolic link manager for ~/.local/bin"
   homepage "https://github.com/11ways/sym"
-  url "https://github.com/11ways/sym/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "70f9e719277ff6d6fb8646c90b5fd9d319e5f545244a512ae92651582037e2e4"
+  url "https://github.com/11ways/sym/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "ed81c5691aa1007fcd90e2bf95ddb19e213dda43b07687787be2cb221c94b954"
   license "MIT"
   head "https://github.com/11ways/sym.git", branch: "main"
 
